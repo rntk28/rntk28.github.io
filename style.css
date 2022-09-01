@@ -1,0 +1,21 @@
+.banner {
+  padding-top: 17rem;
+  padding-bottom: 17rem;
+  background-color: whitesmoke;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+}
+
+#portfolio {
+  background-color: whitesmoke;
+}
+
+#team {
+  background-color: whitesmoke;
+  padding-bottom: 13rem;
+}
+section {
+  padding-top: 5rem;
+}
